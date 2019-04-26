@@ -1,0 +1,8 @@
+,'action'
+,'drama'
+,'adventure'
+,'horror'
+,'historical'
+,'crime'
+,'western'
+,'scifi'

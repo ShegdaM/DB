@@ -1,0 +1,7 @@
+,'prospekt stepana bandery',1
+,'prospekt svobody',2
+,'davida oistraha',3
+,'stryiska',4
+,'pid dubom',5
+,'akademika pavlova',6
+,'kharkivska',7

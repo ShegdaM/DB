@@ -1,0 +1,10 @@
+,'vasia pupkin',1,0675322130
+,'vova shpatel',0,0676059159
+,'anton truba',1,0966145670
+,'igor nikolaev',1,0965191105
+,'oleg vynnyk',0,0672246163
+,'valentin petrovych',0,0960668550
+,'pavlo zozulia',1,0670156403
+,'mihaylo makogon',0,0966834765
+,'denys melnyk',1,0968015605
+,'ivan obama',0,0679527451
